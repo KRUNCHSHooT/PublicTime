@@ -1,0 +1,11 @@
+name: PublicTime
+main: KRUNCHSHooT\PublicTime\Loader
+api:
+- 4.0.0
+- 3.0.0
+version: 1
+author: KRUNCH7SHooT
+commands:
+   ptime:
+      description: PTime by KRUNCH7SHooT
+      usage: /ptime (1am or 1pm)
