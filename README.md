@@ -1,6 +1,6 @@
 # PublicTime
 This is a Pocketmine-MP plugin which aims to change the time according to the clock
-
+<a href="https://poggit.pmmp.io/p/PublicTime"><img src="https://poggit.pmmp.io/shield.state/PublicTime"></a>
 # Features
  - change the time according to the count of hours
  - the use of commands is quite easy, for example, you can scroll down
