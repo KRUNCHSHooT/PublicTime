@@ -24,7 +24,7 @@ class Loader extends PluginBase implements Listener
 			case "ptime":
 			if($sender instanceof Player){
 				if($sender->hasPermission("ptime.cyl")){
-					if(!isset($args)){
+					if(!$args){
 						$sender->sendMessage("§f[§6PTime§f] §ctype /ptime (1am or 1pm)!");
 					}
 					$a = array_shift($args);
