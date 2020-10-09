@@ -7,7 +7,7 @@ This is a Pocketmine-MP plugin which aims to change the time according to the cl
  - only OPs or members who can use this command have `ptime.cyl` permissions.
  
 # ⬇️How to Install
- - **First**, You can download the latest version of this plugin on <a href="https://poggit.pmmp.io/r/https://poggit.pmmp.io/r/105135/PublicTime_dev-8.phar">poggit</a>.
+ - **First**, You can download the latest version of this plugin on <a href="https://poggit.pmmp.io/r/https://poggit.pmmp.io/r/105135/PublicTime_dev-9.phar">poggit</a>.
  - **second**, place the `PublicTime.phar` file into the `plugins` folder.
  - **after that**, Restart Your Server.
  
