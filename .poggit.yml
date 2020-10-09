@@ -5,4 +5,5 @@ branches:
 projects:
   PublicTime:
     path: ""
+    icon: icon.png
 ...
