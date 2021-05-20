@@ -15,7 +15,7 @@ class Loader extends PluginBase implements Listener
 {
 	
 	public function onEnable(){
-		$this->getLogger()->info("PTime Version 1 BY KRUNCH7SHooT ENABLED");
+		$this->getLogger()->info("PTime Version BY KRUNCH7SHooT ENABLED");
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 	}
 	
